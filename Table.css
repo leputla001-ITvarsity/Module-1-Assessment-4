@@ -1,0 +1,51 @@
+body
+{
+
+    background-color: whitesmoke;
+}
+h1
+{
+    border: 3px dotted #0088dd;
+    text-align: center;
+    font-family: "Times New Roman",Georgia,serif;
+    font-variant: small-caps;
+    
+}
+table
+{
+    border-spacing: 0px;
+    table-layout: inherit;
+    background-image: url(Images/2.jpg)
+}
+th, td
+{
+    padding: 5px 30px 5px 10px;
+    border-spacing: 0px;
+    font-size: 90%;
+    margin: 0px;
+}
+th, td
+{
+
+    text-align: left;
+    border-top: 1px solid #f1f8fe;
+    border-bottom: 1px solid #cbd2d8;
+    border-right: 1px solid #cbd2d8;
+}
+th
+{
+    color: lightskyblue;
+    text-align: center;
+    font-family: "Times New Roman",Georgia,serif;
+    font-variant: small-caps;
+}
+tr.head th
+{
+    color: #fff;
+
+    border-bottom: 2px solid #547ca0;
+    border-right: 1px solid #749abe;
+    border-top: 1px solid #90b4d6;
+    text-align: center;
+    
+}
